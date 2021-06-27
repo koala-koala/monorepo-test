@@ -27635,7 +27635,7 @@ var columns = [{
   dataIndex: 'action'
 }];
 function FactorListTable() {
-  return /*#__PURE__*/React__default.createElement("div", null, /*#__PURE__*/React__default.createElement(Table, {
+  return /*#__PURE__*/React__default.createElement("div", null, "\u8FD9\u662F\u7B2C\u4E8C\u4E2A\u7248\u672C", /*#__PURE__*/React__default.createElement(Table, {
     columns: columns,
     dataSource: []
   }));

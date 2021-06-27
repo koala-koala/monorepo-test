@@ -15,6 +15,7 @@ const columns = [{
 export default function FactorListTable() {
   return (
     <div>
+      这是第二个版本
       <Table columns={columns} dataSource={[]}></Table>
     </div>
   )
