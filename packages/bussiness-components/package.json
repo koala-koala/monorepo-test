@@ -33,5 +33,6 @@
     "rollup": "^2.52.2",
     "rollup-plugin-babel": "^4.4.0",
     "typescript": "^4.3.4"
-  }
+  },
+  "gitHead": "c03f9f7d1ff14770cd5abf6c60e65c95791379df"
 }
