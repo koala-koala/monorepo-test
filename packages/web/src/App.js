@@ -1,4 +1,4 @@
-import FactorListTable from '@mono/components/src/factor-list-table'
+import { FactorListTable } from '@mono/bussiness-components/lib/main'
 import './App.css';
 
 function App() {
