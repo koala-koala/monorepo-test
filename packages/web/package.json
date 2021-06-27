@@ -1,10 +1,10 @@
 {
   "name": "@mono/web",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@babel/core": "7.12.3",
-    "@mono/bussiness-components": "^0.0.0",
+    "@mono/bussiness-components": "^0.0.1",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
     "@svgr/webpack": "5.5.0",
     "@testing-library/jest-dom": "^5.11.4",
